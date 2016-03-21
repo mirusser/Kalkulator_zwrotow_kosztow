@@ -1,0 +1,9 @@
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\bin\Debug\Kalkulator_zwrotu_kosztów.exe.config
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\bin\Debug\Kalkulator_zwrotu_kosztów.exe
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\bin\Debug\Kalkulator_zwrotu_kosztów.pdb
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.csprojResolveAssemblyReference.cache
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.Form1.resources
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.Properties.Resources.resources
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.csproj.GenerateResource.Cache
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.exe
+c:\users\mirek\documents\visual studio 2013\Projects\Kalkulator_zwrotu_kosztów\Kalkulator_zwrotu_kosztów\obj\Debug\Kalkulator_zwrotu_kosztów.pdb
